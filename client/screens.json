@@ -1,7 +1,7 @@
 {
   "id": "app",
   "name": "mantiscamille",
-  "startScreen": "app.blank",
+  "startScreen": "app.loginclassic",
   "screens": [
     {
       "id": "blank",

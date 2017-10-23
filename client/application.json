@@ -4,5 +4,11 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "dbcaa0d7",
   "uiCommonVersion": "5.2.1",
-  "creatorId": "nsccatan"
+  "creatorId": "nsccatan",
+  "id": "mantiscamille",
+  "previewImageURL": "/previews/dbcaa0d7-mantiscamille/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/tancamille/mantiscamille",
+  "creatorName": "Camille Tan",
+  "sdks": []
 }
