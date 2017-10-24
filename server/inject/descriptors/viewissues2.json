@@ -64,6 +64,11 @@
         "type": "none"
       },
       "selectorAll": "#buglist tbody tr"
+    },
+    "isViewissues": {
+      "type": "identifier",
+      "selector": ".floatleft",
+      "control": "exists"
     }
   },
   "connect": []
