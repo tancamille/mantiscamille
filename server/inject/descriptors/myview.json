@@ -3,10 +3,10 @@
   "properties": {
     "ismyview": {
       "type": "identifier",
-      "selector": "[name=\"password\"]",
-      "control": "text"
+      "selector": ".subtle",
+      "control": "exists"
     },
-    "viewissues2link": {
+    "viewissueslink": {
       "type": "action",
       "selector": "[name=\"password\"]",
       "control": "text"
