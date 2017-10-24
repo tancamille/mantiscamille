@@ -130,13 +130,5 @@
         }
       }
     }
-  },
-  "myview": {
-    "type": "object",
-    "properties": {
-      "viewissueslink": {
-        "type": "action"
-      }
-    }
   }
 }
