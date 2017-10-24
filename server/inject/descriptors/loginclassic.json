@@ -52,15 +52,5 @@
       "control": "exists"
     }
   },
-  "connect": [
-    {
-      "match": [
-        "islogin",
-        "isLogin"
-      ],
-      "screens": [
-        "loginclassic"
-      ]
-    }
-  ]
+  "connect": []
 }
