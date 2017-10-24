@@ -55,7 +55,8 @@
   "connect": [
     {
       "match": [
-        "islogin"
+        "islogin",
+        "isLogin"
       ],
       "screens": [
         "loginclassic"
