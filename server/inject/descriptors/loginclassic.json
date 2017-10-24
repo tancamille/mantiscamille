@@ -49,7 +49,7 @@
     "isLogin": {
       "type": "identifier",
       "selector": ".button[value='Login']",
-      "control": "exist"
+      "control": "exists"
     }
   },
   "connect": []
