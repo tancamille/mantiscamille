@@ -8,8 +8,8 @@
     },
     "viewissueslink": {
       "type": "action",
-      "selector": "[name=\"password\"]",
-      "control": "text"
+      "selector": "a[href='/mantisbt/view_all_bug_page.php']",
+      "control": "action.link"
     }
   },
   "connect": []
