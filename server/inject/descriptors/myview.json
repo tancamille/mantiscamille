@@ -1,5 +1,16 @@
 {
   "type": "object",
-  "properties": {},
+  "properties": {
+    "ismyview": {
+      "type": "identifier",
+      "selector": "[name=\"password\"]",
+      "control": "text"
+    },
+    "viewissues2link": {
+      "type": "action",
+      "selector": "[name=\"password\"]",
+      "control": "text"
+    }
+  },
   "connect": []
 }
