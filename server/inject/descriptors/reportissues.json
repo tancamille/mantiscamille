@@ -16,6 +16,11 @@
       "type": "select",
       "selector": "[name=\"reproducibility\"]",
       "control": "select"
+    },
+    "Severity": {
+      "type": "select",
+      "selector": "[name=\"severity\"]",
+      "control": "select"
     }
   },
   "connect": [
