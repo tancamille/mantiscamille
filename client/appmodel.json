@@ -105,6 +105,9 @@
     "properties": {
       "Category": {
         "type": "select"
+      },
+      "Reproducibility": {
+        "type": "select"
       }
     }
   }
