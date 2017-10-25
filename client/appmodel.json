@@ -130,5 +130,10 @@
         }
       }
     }
+  },
+  "reportissues": {
+    "type": "object",
+    "comment": "",
+    "properties": {}
   }
 }
