@@ -5,7 +5,7 @@
     "Category": {
       "type": "select",
       "selector": "[name=\"category_id\"]",
-      "control": "text"
+      "control": "select"
     }
   },
   "connect": []
