@@ -14,7 +14,7 @@
     },
     "Reproducibility": {
       "type": "select",
-      "selector": "[name=\"category_id\"]",
+      "selector": "[name=\"reproducibility\"]",
       "control": "select"
     }
   },
