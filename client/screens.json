@@ -34,12 +34,6 @@
       "sourceScreenId": "app.tableviewadvanced.tableviewadvancedconfident",
       "sourceAppId": "universaltemplates",
       "model": "viewissues2"
-    },
-    {
-      "id": "list",
-      "name": "list",
-      "sourceScreenId": "app.blank",
-      "sourceAppId": "_blank"
     }
   ],
   "sourceAppId": "_blank",
