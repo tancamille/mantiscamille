@@ -6,6 +6,12 @@
       "type": "select",
       "selector": "[name=\"category_id\"]",
       "control": "select"
+    },
+    "isreportissues": {
+      "type": "identifier",
+      "selector": ".button[value='Submit Report']",
+      "control": "exists",
+      "selectContains": "Submit Report"
     }
   },
   "connect": []
