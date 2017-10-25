@@ -88,6 +88,10 @@
       "screens": [
         "viewissues2"
       ]
+    },
+    {
+      "match": [],
+      "action": "reportissueslink"
     }
   ]
 }
