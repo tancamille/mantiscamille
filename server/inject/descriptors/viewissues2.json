@@ -74,15 +74,10 @@
       "control": "exists",
       "selectContains": "Viewing Issues"
     },
-    "isreportissues": {
-      "type": "identifier",
-      "selector": "body",
-      "control": "property.innerText"
-    },
     "reportissueslink": {
       "type": "action",
-      "selector": ".button",
-      "control": "action.button"
+      "selector": "a[href*='/mantisbt/bug_report_page.php']",
+      "control": "action.link"
     }
   },
   "connect": [
