@@ -13,7 +13,9 @@
       "control": "exists"
     },
     "Reproducibility": {
-      "type": "select"
+      "type": "select",
+      "selector": "[name=\"reproducibility\"]",
+      "control": "select"
     }
   },
   "connect": [
