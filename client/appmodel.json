@@ -134,6 +134,10 @@
   "reportissues": {
     "type": "object",
     "comment": "",
-    "properties": {}
+    "properties": {
+      "Category": {
+        "type": "select"
+      }
+    }
   }
 }
