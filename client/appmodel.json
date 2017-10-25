@@ -114,6 +114,10 @@
   "severity": {
     "type": "object",
     "comment": "",
-    "properties": {}
+    "properties": {
+      "Severity": {
+        "type": "select"
+      }
+    }
   }
 }
