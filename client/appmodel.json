@@ -108,13 +108,7 @@
       },
       "Reproducibility": {
         "type": "select"
-      }
-    }
-  },
-  "severity": {
-    "type": "object",
-    "comment": "",
-    "properties": {
+      },
       "Severity": {
         "type": "select"
       }
