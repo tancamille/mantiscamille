@@ -5,5 +5,17 @@
       "label": "english",
       "value": "1"
     }
+  },
+  "Reproducibility": {
+    "options": [
+      {
+        "label": "select",
+        "value": "1"
+      },
+      {
+        "label": "adf",
+        "value": "2"
+      }
+    ]
   }
 }
