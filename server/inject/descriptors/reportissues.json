@@ -9,7 +9,7 @@
     },
     "isreportissues": {
       "type": "identifier",
-      "selector": ".button",
+      "selector": ".button[value'Submit Report']",
       "control": "exists",
       "selectContains": "Submit Report"
     }
