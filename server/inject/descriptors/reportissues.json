@@ -14,5 +14,14 @@
       "selectContains": "Submit Report"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "isreportissues"
+      ],
+      "screens": [
+        "reportissues"
+      ]
+    }
+  ]
 }
