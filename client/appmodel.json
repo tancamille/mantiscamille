@@ -43,41 +43,6 @@
       }
     }
   },
-  "viewissues": {
-    "type": "object",
-    "comment": "",
-    "properties": {
-      "issueslist": {
-        "type": "array",
-        "items": {
-          "type": "object",
-          "properties": {
-            "ID": {
-              "type": "string",
-              "update": {
-                "type": "none"
-              }
-            },
-            "status": {
-              "type": "string",
-              "update": {
-                "type": "none"
-              }
-            },
-            "summary": {
-              "type": "string",
-              "update": {
-                "type": "none"
-              }
-            }
-          }
-        },
-        "update": {
-          "type": "none"
-        }
-      }
-    }
-  },
   "viewissues2": {
     "type": "object",
     "comment": "issueslist",
