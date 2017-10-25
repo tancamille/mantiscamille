@@ -1,19 +1,6 @@
 {
   "Category": {
-    "options": [
-      {
-        "label": "english",
-        "value": "1"
-      },
-      {
-        "label": "chinese",
-        "value": "2"
-      },
-      {
-        "label": "math",
-        "value": "3"
-      }
-    ],
+    "options": [],
     "selected": {
       "label": "english",
       "value": "1"
