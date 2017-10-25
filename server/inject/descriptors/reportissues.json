@@ -11,6 +11,9 @@
       "type": "identifier",
       "selector": ".button[value='Submit Report']",
       "control": "exists"
+    },
+    "Reproducibility": {
+      "type": "select"
     }
   },
   "connect": [
