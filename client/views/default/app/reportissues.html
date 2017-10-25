@@ -14,33 +14,34 @@
                 <select-list data-comp-id="selectList.1" ng-model="data.Category">Category</select-list>
             </div>
         </div>
-        <div class="row" data-comp-id="row.5">
-            <div class="col" data-comp-id="column.5">
+        <div class="row" data-comp-id="row.2">
+            <div class="col" data-comp-id="column.2">
                 <label class="item  item-input item-select-icon positive-icon"
                     data-comp-id="selectInput.1">
                     <span class="input-label">Reproducibility</span>
-                    <select></select>
+                    <select ng-model="data.Reproducibility.selected"
+                        ng-options="item as item.label for item in data.Reproducibility.options"></select>
                 </label>
             </div>
         </div>
-        <div class="row" data-comp-id="row.2">
-            <div class="col" data-comp-id="column.2">
+        <div class="row" data-comp-id="row.3">
+            <div class="col" data-comp-id="column.3">
                 <label class="item item-input" data-comp-id="textInput.1">
                     <span class="input-label required">Summary</span>
                     <input type="text">
                 </label>
             </div>
         </div>
-        <div class="row" data-comp-id="row.3">
-            <div class="col" data-comp-id="column.3">
+        <div class="row" data-comp-id="row.4">
+            <div class="col" data-comp-id="column.4">
                 <label class="item item-input item-stacked-label" data-comp-id="textAreaInput.1">
                     <span class="input-label required">Description</span>
                     <textarea rows="4"></textarea>
                 </label>
             </div>
         </div>
-        <div class="row" data-comp-id="row.4">
-            <div class="col" data-comp-id="column.4">
+        <div class="row" data-comp-id="row.5">
+            <div class="col" data-comp-id="column.5">
                 <label class="item" custom-photo="control" data-comp-id="customPhoto.1"
                     ng-class="{'item-input item-button-right': style === 'control'}">
                     <span class="input-label" ng-if="style === 'control'">Custom Photo</span>
