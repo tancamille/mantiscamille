@@ -13,31 +13,8 @@
     <ion-content data-comp-id="ionic-content.1">
         <div class="row" data-comp-id="row.1">
             <div class="col" data-comp-id="column.1">
-                <label class="item" custom-photo="control" data-comp-id="customPhoto.2"
-                    ng-class="{'item-input item-button-right': style === 'control'}">
-                    <span class="input-label" ng-if="style === 'control'">Custom Photo</span>
-                    <button class="button button-icon" ng-if="style === 'control'">
-                        <i class="icon positive-icon ion-camera"></i>
-                    </button>
-                    <input disabled="" ng-if="style === 'control'" type="text">
-                    <input disabled="" ng-if="style === 'control'" type="text">
-                    <button class="button button-block button-positive nomargin"
-                        ng-if="style === 'button'">Custom Photo</button>
-                    <input class="data-container" type="hidden">
-                </label>
+                <select-list data-comp-id="selectList.1">Input Label</select-list>
             </div>
         </div>
-        <label class="item" custom-photo="control" data-comp-id="customPhoto.1"
-            ng-class="{'item-input item-button-right': style === 'control'}">
-            <span class="input-label" ng-if="style === 'control'">Custom Photo</span>
-            <button class="button button-icon" ng-if="style === 'control'">
-                <i class="icon positive-icon ion-camera"></i>
-            </button>
-            <input disabled="" ng-if="style === 'control'" type="text">
-            <input disabled="" ng-if="style === 'control'" type="text">
-            <button class="button button-block button-positive nomargin"
-                ng-if="style === 'button'">Custom Photo</button>
-            <input class="data-container" type="hidden">
-        </label>
     </ion-content>
 </ion-view>
