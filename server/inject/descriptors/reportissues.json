@@ -17,6 +17,7 @@
   "connect": [
     {
       "match": [
+        "isreportissues",
         "isreportissues"
       ],
       "screens": [
