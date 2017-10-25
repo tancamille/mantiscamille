@@ -108,6 +108,9 @@
       },
       "Reproducibility": {
         "type": "select"
+      },
+      "Severity": {
+        "type": "select"
       }
     }
   }
