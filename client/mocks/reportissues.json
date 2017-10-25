@@ -17,5 +17,17 @@
         "value": "2"
       }
     ]
+  },
+  "Severity": {
+    "options": [
+      {
+        "label": "wqdw",
+        "value": "1"
+      },
+      {
+        "label": "1wefwe",
+        "value": "2"
+      }
+    ]
   }
 }
