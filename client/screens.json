@@ -41,13 +41,6 @@
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
       "model": "reportissues"
-    },
-    {
-      "id": "tableviewadvancedclassic",
-      "name": "TableView Advanced-Classic",
-      "sourceScreenId": "app.tableviewadvanced.tableviewadvancedclassic",
-      "sourceAppId": "universaltemplates",
-      "model": "tableviewadvancedclassic"
     }
   ],
   "sourceAppId": "_blank",
